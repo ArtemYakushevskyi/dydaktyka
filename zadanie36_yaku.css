@@ -1,0 +1,57 @@
+
+body {
+    background-color: lightblue;
+}
+
+
+h1 {
+    border-top: 5px dotted red;
+    border-bottom: 5px dashed green;
+    border-left: 5px solid blue;
+    border-right: 5px double orange;
+    padding: 10px;
+}
+
+
+h2 {
+    background-color: lightgreen;
+    border: 3px groove blue;
+    padding: 10px;
+    border-top-color: red;
+    border-right-color: yellow;
+    border-bottom-color: green;
+    border-left-color: purple;
+}
+
+
+h3 {
+    background-color: lightcoral;
+    border: 4px ridge navy;
+    padding: 10px;
+}
+
+
+.hr1 {
+    border: 1px solid black;
+    width: 50%;
+}
+
+.hr2 {
+    border: 2px solid red;
+    width: 75%;
+}
+
+.hr3 {
+    border: 3px solid blue;
+    width: 100%;
+}
+
+
+a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+a:hover {
+    text-decoration: underline;
+}
